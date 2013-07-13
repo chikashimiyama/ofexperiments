@@ -43,4 +43,5 @@ void testApp::draw(){
     shader.end();
     tex.unbind();
     camera.end();
+//    tex.draw(0,0);
 }
