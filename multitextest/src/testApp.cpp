@@ -5,11 +5,7 @@ void testApp::setup(){
     ofLog(OF_LOG_VERBOSE);
     mix.load("mix");
     img1.loadImage("car.jpg");
-    tex1.allocate(WIDTH, HEIGHT, GL_RGB);
-    tex1.loadData(img1.getPixels(), WIDTH, HEIGHT, GL_RGB);
     img2.loadImage("horse.jpg");
-    tex2.allocate(WIDTH, HEIGHT, GL_RGB);
-    tex2.loadData(img2.getPixels(), WIDTH, HEIGHT, GL_RGB);
 }
 
 //--------------------------------------------------------------
@@ -25,8 +21,8 @@ void testApp::draw(){
     tex1.bind();
     tex2.bind();
     mix.begin();
-    mix.setUniformTexture("tex1", tex1, tex1.getTextureData().textureID);
-    mix.setUniformTexture("tex2", tex2, tex2.getTextureData().textureID);
+    mix.setUniformTexture("tex1", img1, img1.getTextureReference().getTextureData().textureID);
+    mix.setUniformTexture("tex2", img2, img2.getTextureReference().getTextureData().textureID);
 
 
     glBegin(GL_QUADS);
