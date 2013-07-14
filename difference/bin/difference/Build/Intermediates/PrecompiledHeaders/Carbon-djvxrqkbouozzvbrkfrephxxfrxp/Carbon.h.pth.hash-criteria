@@ -1,0 +1,71 @@
+Contents of /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+
+i386-apple-darwin12.4.0
+-x
+c
+-arch
+i386
+-fmessage-length=0
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+-fasm-blocks
+-fstrict-aliasing
+-mmacosx-version-min=10.8
+-g
+-mssse3
+-I/Users/chikashi/Development/of_v0.7.4_osx_release/apps/ofexperiments/difference/bin/include
+-I../../../libs/openFrameworks
+-I../../../libs/openFrameworks/3d
+-I../../../libs/openFrameworks/app
+-I../../../libs/openFrameworks/communication
+-I../../../libs/openFrameworks/events
+-I../../../libs/openFrameworks/gl
+-I../../../libs/openFrameworks/graphics
+-I../../../libs/openFrameworks/math
+-I../../../libs/openFrameworks/sound
+-I../../../libs/openFrameworks/types
+-I../../../libs/openFrameworks/utils
+-I../../../libs/openFrameworks/video
+-I../../../libs/poco/include
+-I../../../libs/freetype/include
+-I../../../libs/freetype/include/freetype2
+-I../../../libs/fmodex/include
+-I../../../libs/glew/include
+-I../../../libs/FreeImage/include
+-I../../../libs/tess2/include
+-I../../../libs/cairo/include/cairo
+-I../../../libs/rtAudio/include
+-I../../../addons/ofxKinect/libs
+-I../../../addons/ofxKinect/libs/libfreenect
+-I../../../addons/ofxKinect/libs/libfreenect/lib
+-I../../../addons/ofxKinect/libs/libusb
+-I../../../addons/ofxKinect/libs/libusb/osx
+-I../../../addons/ofxKinect/libs/libusb/osx/include
+-I../../../addons/ofxKinect/libs/libusb/osx/include/libusb-1.0
+-I../../../addons/ofxKinect/libs/libusb/osx/libs
+-I../../../addons/ofxKinect/libs/libusb/win
+-I../../../addons/ofxKinect/libs/libusb/win/inf
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui audio
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui audio/amd64
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui audio/ia64
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui audio/license
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui audio/license/libusb-win32
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui audio/x86
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui camera
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui camera/amd64
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui camera/ia64
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui camera/license
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui camera/license/libusb-win32
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui camera/x86
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui motor
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui motor/amd64
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui motor/ia64
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui motor/license
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui motor/license/libusb-win32
+-I../../../addons/ofxKinect/libs/libusb/win/inf/xbox nui motor/x86
+-I../../../addons/ofxKinect/src
+-F/Users/chikashi/Development/of_v0.7.4_osx_release/apps/ofexperiments/difference/bin
+-F/Users/chikashi/Development/of_v0.7.4_osx_release/apps/ofexperiments/difference/../../../libs/glut/lib/osx
+SDK_PRODUCT_BUILD_VERSION=12D75
