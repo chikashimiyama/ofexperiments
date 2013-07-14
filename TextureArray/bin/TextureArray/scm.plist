@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FoundWorkingCopyPaths</key>
+	<array>
+		<string>/Users/chikashi/Development/of_v0.7.4_osx_release/apps/ofexperiments</string>
+	</array>
+	<key>LastWorkingCopyScanDate</key>
+	<date>2013-07-13T16:32:56Z</date>
+	<key>MissingFilePaths</key>
+	<array>
+		<string>/Users/chikashi/Development/of_v0.7.4_osx_release/apps/ofexperiments/TextureArray/bin/TextureArrayDebug.app</string>
+	</array>
+	<key>Version</key>
+	<integer>4</integer>
+</dict>
+</plist>
